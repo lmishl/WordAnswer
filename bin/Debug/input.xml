@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfRecipient xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Recipient>
+    <shortName>Чуйков</shortName>
+    <fullName>Судебному 
+приставу-исполнителю, осуществляющему розыск должников, их имущества и розыску детей МОСП УФССП
+по Алтайскому краю 
+Ю.В. Чуйкову
+ул. Космонавтов, д. 45,
+Барнаул, 656023
+</fullName>
+  </Recipient>
+<Recipient>
+  <shortName>Крахмалёв</shortName>
+    <fullName>Судебному приставу-исполнителю, осуществляющему розыск МОСП по розыску должников, их имущества и розыск детей УФССП России по Алтайскому краю
+Н.Н. Крахмалеву
+ул. Космонавтов, д. 45,
+Барнаул, 656023
+
+</fullName>
+  </Recipient>
+</ArrayOfRecipient>

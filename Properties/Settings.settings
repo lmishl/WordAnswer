@@ -1,0 +1,21 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="wordAnswer.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="ConnectionString" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Data Source=BARNAUL;User ID=GAIDEV;Unicode=True;Password=ugibddroles</Value>
+    </Setting>
+    <Setting Name="IspolPhone" Type="System.String" Scope="User">
+      <Value Profile="(Default)">393602</Value>
+    </Setting>
+    <Setting Name="IspolFIO" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Е.С. Упит</Value>
+    </Setting>
+    <Setting Name="NachFIO" Type="System.String" Scope="User">
+      <Value Profile="(Default)">В.А. Перцев</Value>
+    </Setting>
+    <Setting Name="NachDolz" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Заместитель начальника</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

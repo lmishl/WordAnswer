@@ -1,0 +1,11 @@
+c:\users\roio\documents\visual studio 2012\Projects\wordAnswer\wordAnswer\bin\Debug\wordAnswer.exe.config
+c:\users\roio\documents\visual studio 2012\Projects\wordAnswer\wordAnswer\bin\Debug\wordAnswer.exe
+c:\users\roio\documents\visual studio 2012\Projects\wordAnswer\wordAnswer\bin\Debug\wordAnswer.pdb
+c:\users\roio\documents\visual studio 2012\Projects\wordAnswer\wordAnswer\obj\Debug\wordAnswer.csprojResolveAssemblyReference.cache
+c:\users\roio\documents\visual studio 2012\Projects\wordAnswer\wordAnswer\obj\Debug\wordAnswer.MainForm.resources
+c:\users\roio\documents\visual studio 2012\Projects\wordAnswer\wordAnswer\obj\Debug\wordAnswer.Properties.Resources.resources
+c:\users\roio\documents\visual studio 2012\Projects\wordAnswer\wordAnswer\obj\Debug\wordAnswer.csproj.GenerateResource.Cache
+c:\users\roio\documents\visual studio 2012\Projects\wordAnswer\wordAnswer\obj\Debug\wordAnswer.exe
+c:\users\roio\documents\visual studio 2012\Projects\wordAnswer\wordAnswer\obj\Debug\wordAnswer.pdb
+C:\Users\ROIO\Documents\Visual Studio 2012\Projects\wordAnswer\wordAnswer\obj\Debug\wordAnswer.Settings.resources
+C:\Users\ROIO\Documents\Visual Studio 2012\Projects\wordAnswer\wordAnswer\obj\Debug\wordAnswer.SelectRecipient.resources
